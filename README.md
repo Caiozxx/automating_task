@@ -2,4 +2,4 @@
 
 ### Install Depencies
 
-- First let's install @[python](https://www.python.org/downloads/) on the machine
+- First let's install [python](https://www.python.org/downloads/) on the machine
