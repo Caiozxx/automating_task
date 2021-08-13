@@ -4,7 +4,9 @@
 
 1. First let's install [python](https://www.python.org/downloads/) on the machine (click on the link to go to the downloads page).
 
-2. after installing python open prompt and install the following dependencies
+2. install the webdriver [geckodriver](https://github.com/mozilla/geckodriver/releases) salve na pasta Automating_task
+
+3. after installing python open prompt and install the following dependencies
     - pip install pyautogui
     - pip install time 
 
