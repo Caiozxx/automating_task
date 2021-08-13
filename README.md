@@ -16,4 +16,15 @@
  2. navigate to the folder where the position.py file is
  3. position the mouse where you want it to show the position  
  4. run the file
+ 5. after the position result, replace in the place indicated in the task.py code
 
+ ### tools used
+
+ [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]()
+ [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&<logo=visual%20studio%20code&logoColor=white)]()
+
+ ### tested on
+
+ [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![KaliLinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&<logoColor=white)]()
