@@ -1,4 +1,4 @@
-### Automating tasks #1
+<h1> Automating tasks <h1>
 
-<h1> Install depencies <h1>
+### Install Depencies
 
