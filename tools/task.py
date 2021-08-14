@@ -96,3 +96,8 @@ time.sleep(20)
 # Salve o arquivo 
 pyautogui.press('f5')
 # Desligue o computador
+pyautogui.hotkey('alt','f4')
+time.sleep(1)
+pyautogui.press('tab')
+time.sleep(1)
+pyautogui.press('enter')
