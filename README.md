@@ -32,5 +32,5 @@
 [![KaliLinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&<logoColor=white)]()
 
 ### recommendations
-- we recommend downloading [NGC Sfotware](https://www.nchsoftware.com/capture/index.html?kw=screen%20recorder%20pro&gclid=CjwKCAjwsNiIBhBdEiwAJK4khrWf8WkUmufe2rVpeQ2f6AcoqX-9v6RQQnbHSnVLdpDIQx6n0xajfxoCcjsQAvD_BwE) capture software to make screen recording.
+- we recommend downloading [Free cam 8](https://www.freescreenrecording.com/) capture software to make screen recording.
 - start the program on the desktop
