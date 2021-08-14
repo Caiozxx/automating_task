@@ -4,7 +4,7 @@
 
 1. First let's install [python](https://www.python.org/downloads/) on the machine (click on the link to go to the downloads page).
 
-2. install the webdriver [geckodriver](https://github.com/mozilla/geckodriver/releases) salve na pasta Automating_task
+2. install the webdriver [geckodriver](https://github.com/mozilla/geckodriver/releases) save to folder Automating_task
 
 3. after installing python open prompt and install the following dependencies
     - pip install pyautogui
@@ -33,4 +33,5 @@
 
 ### recommendations
 - we recommend downloading [Free cam 8](https://www.freescreenrecording.com/) capture software to make screen recording.
+- application available in the "FreeCam" folder
 - start the program on the desktop
